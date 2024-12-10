@@ -1,0 +1,1 @@
+# quasar-authentication-appscript
